@@ -47,7 +47,7 @@ The Different units that are supoported by the App include
 
 ## 🎨 UI Design
 
-***Click to View `Einsen` app Design from below 👇***
+***Click to View `Toolz` app Design from below 👇***
 
 [![Einsen Figma Design](https://img.shields.io/badge/Toolz-FIGMA-black.svg?style=for-the-badge&logo=figma)](https://www.figma.com/_123__file/s0jhjixtXtOZmmIyHIN3Yy/Einsen?node-id=0%3A1)
 

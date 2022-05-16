@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "398302823322",
+    "project_id": "toolz-a143a",
+    "storage_bucket": "toolz-a143a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398302823322:android:f552bf28b65599f8ef7023",
+        "android_client_info": {
+          "package_name": "com.prime.toolz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398302823322-uugpljh4h3lb32j8vfrv06agbocut822.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg1zYMQpfDkLgvdCBUq8bpykhIo7VyARM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398302823322-uugpljh4h3lb32j8vfrv06agbocut822.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

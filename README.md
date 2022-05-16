@@ -7,9 +7,9 @@
 [![GitHub license](https://img.shields.io/badge/License-Apache2.0-blue.svg)](LICENSE)
 [![ktlint](https://img.shields.io/badge/code%20style-%E2%9D%A4-FF4081.svg)](https://ktlint.github.io/)
 
-![GitHub stars](https://img.shields.io/github/stars/prime-zs/toolz?style=social)
-![GitHub stars](https://img.shields.io/github/prime-zs/toolz?style=social)
-![GitHub stars](https://img.shields.io/github/watchers/prime-zs/toolz?style=social)
+![GitHub stars](https://img.shields.io/github/stars/prime-zs/Toolz?style=social)
+![GitHub stars](https://img.shields.io/github/prime-zs/Toolz?style=social)
+![GitHub stars](https://img.shields.io/github/watchers/prime-zs/Toolz?style=social)
 ![GitHub follow](https://img.shields.io/github/followers/prime-zs?label=Follow&style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/sanjay_spikey?label=Twitter&style=social)
 

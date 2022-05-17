@@ -1,12 +1,12 @@
-![GitHub Cards Preview](https://github.com/prime-zs/Toolz/blob/master/art/feature-graphic.png?raw=true)
+![GitHub Cards Preview](https://github.com/prime-zs/toolz/blob/master/art/feature-graphic.png?raw=true)
 
 ![Build (Android)](https://github.com/Spikeysanju/Einsen/workflows/Android%20CI/badge.svg)
 [![GitHub license](https://img.shields.io/badge/License-Apache2.0-blue.svg)](LICENSE)
 
 
-![GitHub stars](https://img.shields.io/github/stars/prime-zs/Toolz?style=social)
-![GitHub stars](https://img.shields.io/github/forks/prime-zs/Toolz?style=social)
-![GitHub stars](https://img.shields.io/github/watchers/prime-zs/Toolz?style=social)
+![GitHub stars](https://img.shields.io/github/stars/prime-zs/toolz?style=social)
+![GitHub stars](https://img.shields.io/github/forks/prime-zs/toolz?style=social)
+![GitHub stars](https://img.shields.io/github/watchers/prime-zs/toolz?style=social)
 ![GitHub follow](https://img.shields.io/github/followers/prime-zs?label=Follow&style=social)
 
 
@@ -57,7 +57,7 @@ The Different units that are supoported by the App include
 
 |   Shot-1    | Shot-2
 |---	|---
-|  ![](https://github.com/prime-zs/Toolz/blob/master/art/Screenshot_2022-05-16-09-50-15-79.png)    |  ![](https://github.com/prime-zs/Toolz/blob/master/art/Screenshot_2022-05-16-09-50-48-66.png)    
+|  ![](https://github.com/prime-zs/toolz/blob/master/art/Screenshot_2022-05-16-09-50-15-79.png)    |  ![](https://github.com/prime-zs/toolz/blob/master/art/Screenshot_2022-05-16-09-50-48-66.png)    
 <br />
 
 ## 🛠 Built With
@@ -114,6 +114,39 @@ build this project.
 
 <img src="./beta_android.png" height="200" alt="Beta-studio"/>
 
+## ❤️ Show your Support
+
+I love it when people use my tool and we’d love to make it even better. If you like this tool and
+want to support me in developing more free tools for you, I’d really appreciate a donation. Feel
+free to `buy me a cup of coffee` 😄. Thanks!
 
 
+<a href="https://www.buymeacoffee.com/sheikhzaki3" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" width="160">
+</a>
+
+<br>
+
+
+## 🔖 License
+
+```
+    Apache 2.0 License
+
+
+    Copyright 2021 Spikey sanju
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+```
 
